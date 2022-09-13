@@ -1,7 +1,10 @@
-# Getting Started with Create React App
+## List of Content
+    - [package installed](#package-installed)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Package Installed
+- google font [https://fonts.google.com](https://fonts.google.com)
+- css styling ``` yarn add sass or npm add sass ```
+- router for dynamic route ```  yarn add react-router-dom or npm add react-router-dom ``` docs [https://reactrouter.com/](https://reactrouter.com/)
 ## Available Scripts
 
 In the project directory, you can run:
