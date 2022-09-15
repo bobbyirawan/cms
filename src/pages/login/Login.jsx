@@ -2,7 +2,7 @@ import "./login.scss";
 
 const Login = () => {
     return (
-        <div>new</div>
+        <div>Login</div>
     )
 }
 

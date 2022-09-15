@@ -1,5 +1,6 @@
 ## List of Content
 - [Installed package](#package-installed)
+- [Reference](#reference)
 ## Package Installed
 - google font [https://fonts.google.com](https://fonts.google.com)
 - css styling 
@@ -26,4 +27,20 @@ or
 ```
 npm install @mui/icons-material
 ```
+- progressbar
+```
+yarn add react-circular-progressbar
+```
+- charts, recharts docs [https://recharts.org/en-US/](#https://recharts.org/en-US/)
+```
+yarn add recharts
+```
+- table
+```
+yarn add @mui/x-data-grid
+```
 
+## Reference
+- box shadow generator [https://cssgenerator.org/box-shadow-css-generator.html](#https://cssgenerator.org/box-shadow-css-generator.html)
+- Neumorphism generato [https://neumorphism.io/#e0e0e0](#https://neumorphism.io/#e0e0e0)
+- list box shadow [https://getcssscan.com/css-box-shadow-examples](#https://getcssscan.com/css-box-shadow-examples)
