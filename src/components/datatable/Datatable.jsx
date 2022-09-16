@@ -1,11 +1,13 @@
 import "./datatable.scss";
 import { DataGrid } from "@mui/x-data-grid";
 import { Link } from "react-router-dom";
+import useFetch from "../../hooks/useFetch";
 // import { useState } from "react";
 
 
 
 const Datatable = ({ columns, sources, title }) => {
+    const { data, loading, error } = useFetch("/users")
     // const [data, setData] = useState(sources);
 
     const handleDelete = (id) => {
